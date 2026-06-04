@@ -103,12 +103,6 @@ contains the identified parameter values of both friction models considered in t
 
 Parameter values are reported for all seven joints of the Franka Emika Panda robot.
 
-## Robot Specifications
-
-Joint position and velocity limits correspond to the manufacturer specifications of the Franka Emika Panda robot and are provided for reference.
-
-These limits were used when designing the excitation trajectories and selecting feasible motion directions.
-
 ## License
 
 This dataset is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
