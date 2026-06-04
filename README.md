@@ -7,7 +7,6 @@ This repository contains the datasets, experimental configurations, and identifi
 ## Repository Structure
 
 ```text
-00_robot_specifications/
 01_identification_trajectories/
 02_validation_trajectories/
 03_initial_joint_configurations/
