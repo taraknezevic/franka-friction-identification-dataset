@@ -22,7 +22,7 @@ Each identification trajectory is organized according to:
 
 ```text
 qX/
-└── qX_cY/
+└── pY/
     └── v_Z/
 ```
 
